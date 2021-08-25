@@ -1,10 +1,10 @@
 MVC project without views, only back-end.
 All the files are ordered in folders.
 Controllers.
-Services (Connect models to controllers, consumes api's)
+Services (Connect models to controllers, consumes api's).
 Tests.
-SwaggerDocs
-Routes
+SwaggerDocs.
+Routes.
 Implemented the common responses in the folder "Utils" to make the app more organized.
 Middlewares in one folder to validate the routes (Validate with express-validator).
 Messages folder contains the status Codes and some responses.
